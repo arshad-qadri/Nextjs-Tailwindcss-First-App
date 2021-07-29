@@ -22,7 +22,7 @@ export default function Home() {
             </div>
             <div className="bg-white flex flex-col text-justify justify-center  lg:h-96 sm:h-auto shadow-lg p-10 rounded-2xl">
               <h1 className="text-3xl font-bold">I'm Arshad </h1>
-              <p className="mt-10 lg:leading-10 sm:leading-4 text-lg">
+              <p className="mt-10 lg:leading-10 sm:leading-4 text-lg text-gray-500">
                 My name is
                 <span className="font-bold"> Mo Arshadraza Mo Qayyum</span>. I
                 am living in Sangli (Maharshtra). I did my graduation in BCA

@@ -13,6 +13,16 @@ const Navbar = () => {
             </Link>
           </li>
           <li className="text-l hover:text-yellow-300 uppercase ml-5">
+            <Link href="/redux-project">
+              <a>Project</a>
+            </Link>
+          </li>
+          <li className="text-l hover:text-yellow-300 uppercase ml-5">
+            <Link href="/todo">
+              <a>Todo</a>
+            </Link>
+          </li>
+          <li className="text-l hover:text-yellow-300 uppercase ml-5">
             <Link href="/about">
               <a>About</a>
             </Link>
